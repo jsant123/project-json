@@ -1,0 +1,22 @@
+{
+  "VNX": [
+    {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"}],
+   "VPLEX":[
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"}],
+   "Centera": [
+    {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"}],
+   "VMAX":[
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"},
+   {"name": "serial number","iP": "213","user": "sysadmin","password": "hi"}] 
+}
