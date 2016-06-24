@@ -2,10 +2,10 @@ REDI - Chicago Site Sample json format
 #4 devices per data storage system
 {
   "VNX": [
-    {"name": "APM00134903667","iP": "10.131.160.230","user": "sysadmin","password": "sysadmin"},
-   {"name": "APM00134903667","iP": "10.131.160.231","user": "sysadmin","password": "sysadmin"},
-   {"name": "APM00134903667","iP": "10.131.160.232","user": "sysadmin","password": "sysadmin"},
-   {"name": "APM00134903667","iP": "10.131.160.233","user": "sysadmin","password": "sysadmin"}],
+    {"name": "APM00134903367","iP": "10.121.160.230","user": "sysadmin","password": "sysadmin"},
+   {"name": "APM00134903637","iP": "10.111.160.231","user": "sysadmin","password": "sysadmin"},
+   {"name": "APM00134903647","iP": "10.141.160.232","user": "sysadmin","password": "sysadmin"},
+   {"name": "APM00134903637","iP": "10.151.160.233","user": "sysadmin","password": "sysadmin"}],
    "VPLEX":[
  ],
    "Centera": [
